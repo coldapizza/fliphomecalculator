@@ -1,0 +1,10 @@
+form {
+    display: table;
+}
+input[type="number"] {
+    display: flex;
+    height: 5%;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,15 @@
+.header_menu {
+  display: flex;
+  justify-content: center;
+  color: #FF0000
+}
+.login_menu {
+  display: flex;
+  justify-content: center;
+  color: #FF0000
+}
+.footer_menu {
+  display: flex;
+  justify-content: center;
+  color: #FF0000
+}
