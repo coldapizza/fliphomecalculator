@@ -3,7 +3,7 @@
 ### Real Estate Data
 | I/O | English | Spanish |
 | ---- | ----- | ---- |
-| COSTOS ASOCIADOS | | |
+|      | COSTS ASSOCIATED | COSTOS ASOCIADOS |
 | Input | Price Paid | Precio Pagado |
 | Output | Loan Closing Costs | Prestamo Costos De Cierre |
 | Output | Interest Paid | Pagos De Intereses |
@@ -29,3 +29,16 @@
 ### Loan Data
 | I/O | English | Spanish |
 | ---- | ---- | ---- |
+|     | LOAN DETAILS | PRESTAMO DETALLES |
+| Input | Price Paid | Precio Pagado |
+| Output | Loan Closing Costs | Prestamo Costos De Cierre |
+| Input | 10% Down Payment | 10% Down De Prestamo |
+| Output | Service Fee | Service Fee |
+| Input | Extra Amount for the Job | Cantidad Extra Para El Trabajo |
+| Output | Optional and not included in inerest payments | opcional y no incluido en pagos de interes de este ejemplo |
+| Input | Interest +/- 10.95% | Interes 10.95% +/- |
+| Output | Ends in 12 months | Termino 12 Meses |
+| Output | Monthly Interest Payments | Pagos De Intereses Mensuales |
+
+These numbers are only examples!
+Estos numeros nomas son ejemplos
