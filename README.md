@@ -1,9 +1,9 @@
 # Fliphome Calculator
 ## Calculate the cost of flipping a house
-### Data included
+### Real Estate Data
 | I/O | English | Spanish |
 | ---- | ----- | ---- |
-| COSTOS ASOCIADOS |
+| COSTOS ASOCIADOS | | |
 | Input | Price Paid | Precio Pagado |
 | Output | Loan Closing Costs | Prestamo Costos De Cierre |
 | Output | Interest Paid | Pagos De Intereses |
@@ -25,3 +25,7 @@
 | Input | Sell Price | Precio De Venta |
 | Output | Profit | Ganacia |
 | Output | Profit if bought with cash | Ganacia Si Compra Cash |
+
+### Loan Data
+| I/O | English | Spanish |
+| ---- | ---- | ---- |
